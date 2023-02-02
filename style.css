@@ -2,3 +2,12 @@ body {
     background-color: blueviolet;
     color: darksalmon;
 }
+
+.h1 {
+    font-size: x-large;
+    font-style: italic;
+    color: dodgerblue;
+}
+.p {
+    font-size: xx-large;
+}
